@@ -1,0 +1,16 @@
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/obj/Debug/net5.0/Catalogo.csproj.AssemblyReference.cache
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/obj/Debug/net5.0/Catalogo.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/obj/Debug/net5.0/Catalogo.AssemblyInfoInputs.cache
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/obj/Debug/net5.0/Catalogo.AssemblyInfo.cs
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/obj/Debug/net5.0/Catalogo.csproj.CoreCompileInputs.cache
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/bin/Debug/net5.0/Catalogo
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/bin/Debug/net5.0/Catalogo.deps.json
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/bin/Debug/net5.0/Catalogo.runtimeconfig.json
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/bin/Debug/net5.0/Catalogo.runtimeconfig.dev.json
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/bin/Debug/net5.0/Catalogo.dll
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/bin/Debug/net5.0/ref/Catalogo.dll
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/bin/Debug/net5.0/Catalogo.pdb
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/obj/Debug/net5.0/Catalogo.dll
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/obj/Debug/net5.0/ref/Catalogo.dll
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/obj/Debug/net5.0/Catalogo.pdb
+/home/hugo/Área de Trabalho/Projetos/Séries/Catalogo/obj/Debug/net5.0/Catalogo.genruntimeconfig.cache
